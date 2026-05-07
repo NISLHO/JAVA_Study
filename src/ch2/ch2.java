@@ -9,14 +9,14 @@ public class ch2 {
         System.out.println(level);*/
 
         // 2-2
-        /*char ch1 = 'A';
+        /*char ch1 = 'Z';
         System.out.println(ch1);
         System.out.println((int)ch1);
 
-        char ch2 = 66;
+        char ch2 = 38;
         System.out.println(ch2);
 
-        int ch3 = 67;
+        int ch3 = 97;
         System.out.println(ch3);
         System.out.println((char)ch3);*/
 
@@ -56,7 +56,7 @@ public class ch2 {
         System.out.println(isMarried);*/
 
         // 2-8
-        var i = 10;
+        /*var i = 10;
         var j = 10.0;
         var str = "hello";
 
@@ -64,8 +64,16 @@ public class ch2 {
         System.out.println(j);
         System.out.println(str);
 
-        str = "test";
+        str = "test";*/
 
+        // 2-9
+        /*final int MAX_NUM = 100;
+        final int MIN_NUM;
+
+        MIN_NUM = 0;
+
+        System.out.println(MAX_NUM);
+        System.out.println(MIN_NUM);*/
 
     }
 }
